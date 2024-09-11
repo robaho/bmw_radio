@@ -1,5 +1,5 @@
 # bmw_radio
-custom iBus radio for BMWs
+custom iBus radio for BMWs with iPOD and HD Radio support
 
 It was an interesting project born out of necessity - aren't they all? I loved the engineering of the BMW 740i, but unfortunately the technology was out of date. I wanted support for iPod playback and HD Radio, so I taught myself EE and audio engineering and set out to build a replacement radio headunit with these features. It turned out really well imo. It integrated perfectly with the other car systems and it worked like it was from the factory. As a bonus, the audio fidelity was much improved with the higher gain and signal to noise ratios of the sources.
 
